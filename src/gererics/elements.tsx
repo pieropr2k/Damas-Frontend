@@ -1,5 +1,5 @@
 // Define types for the pieces
-export type Piece = 'none' | 'red' | 'black';
+export type Piece = 'none' | 'red' | 'black' | 'red-king' | 'black-king' ;
 
 // Define the board size
 export const BOARD_SIZE = 8;
